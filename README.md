@@ -1,5 +1,5 @@
 # uru
-unrar for alpine docker edition
+unrar for alpine >3.14.8
 
 alpine linux drop unrar on version >3.14.8 this is docker file using alpine version 3.14.8 as image and ship unrar with docker technology
 
